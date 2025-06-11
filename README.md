@@ -10,18 +10,18 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ ] Header/title describing the theme is displayed
-- [ ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ ] There are at least 10 cards displayed 
-  - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ ] Each card should include some information about the event or resource
+- [X] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [X] Header/title describing the theme is displayed
+- [X] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [X] There are at least 10 cards displayed 
+  - [X] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [X] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-  - [ ] All cards have buttons or links in addition to text
+- [X] Buttons or links to a related resources are on each card component
+  - [X] All cards have buttons or links in addition to text
 - [ ] The site is responsive for both desktop and mobile formats
   - [ ] Web app is shown in a mobile format
 
